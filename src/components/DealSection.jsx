@@ -6,17 +6,20 @@ export default function DealsSection() {
       name: "Wireless Audio System",
       price: "$685,00",
       img: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTimua2jpgfbGKtYpcj4or5RZhf5fvF2RUBtcGdZ9YE_cA6qT4YCmERt4KI4I2Q2_KAFsW0JWu-3DiHf-xoEFtdn_YAPlGBPKraBtEE0jHrzxz7_xlaIhoejGA",
+      // img: "/1.svg",
     },
     {
       name: "Tablet White EliteBook",
       price: "$1999,00",
       old: "$2,299.00",
       img: "https://pngimg.com/uploads/laptop/laptop_PNG101816.png",
+      // img: "/2.svg",
     },
     {
       name: "Purple Solo 2 Wireless",
       price: "$685,00",
       img: "https://pngimg.com/uploads/headphones/headphones_PNG7645.png",
+      // img: "/3.svg",
     },
     {
       name: "Smartphone 6S 32GB LTE",
@@ -112,7 +115,7 @@ export default function DealsSection() {
             {products.map((product, index) => (
               <div
                 key={index}
-                className="bg-white p-6 rounded-lg hover:shadow-xl transition relative group"
+                className="bg-black p-6 rounded-lg hover:shadow-xl transition relative group"
               >
                 <img
                   src={product.img}

@@ -59,7 +59,7 @@ export default function Footer() {
 
           <div>
             <h2 className="text-3xl font-bold text-gray-800">
-              electro<span className="text-yellow-500">.</span>
+              Strike<span className="text-yellow-500">.</span>
             </h2>
 
             <div className="flex items-center gap-3 mt-6 text-gray-600">
@@ -67,7 +67,7 @@ export default function Footer() {
               <div>
                 <p className="text-sm">Got questions? Call us 24/7!</p>
                 <p className="text-lg font-semibold">
-                  (800) 8001-8588, (0600) 874 548
+                  (800) 0000-8588, (0000) 111 000
                 </p>
               </div>
             </div>
@@ -75,7 +75,7 @@ export default function Footer() {
             <div className="mt-6 text-sm text-gray-600">
               <p className="font-semibold">Contact info</p>
               <p>
-                17 Princess Road, London, Greater London NW1 8JR, UK
+                17 MH Road, London, Greater Dilwa NW1 8JR, Russia
               </p>
             </div>
 

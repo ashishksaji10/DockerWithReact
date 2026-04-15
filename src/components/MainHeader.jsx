@@ -15,7 +15,7 @@ export default function MainHeader() {
 
 
         <h1 className="text-3xl font-bold text-gray-800">
-          electro<span className="text-yellow-400">.</span>
+          Strike<span className="text-yellow-400">.</span>
         </h1>
 
 
