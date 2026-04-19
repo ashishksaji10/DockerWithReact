@@ -115,7 +115,7 @@ export default function DealsSection() {
             {products.map((product, index) => (
               <div
                 key={index}
-                className="bg-black p-6 rounded-lg hover:shadow-xl transition relative group"
+                className="bg-white p-6 rounded-lg hover:shadow-xl transition relative group"
               >
                 <img
                   src={product.img}

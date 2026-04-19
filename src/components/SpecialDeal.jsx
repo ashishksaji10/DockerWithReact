@@ -35,7 +35,7 @@ export default function SpecialDeal() {
           {cards.map((card, index) => (
             <div
               key={index}
-              className="relative bg-white rounded-xl shadow-sm hover:shadow-lg transition p-6 flex items-center justify-between overflow-hidden min-h-[170px]"
+              className="relative bg-white rounded-xl shadow-sm hover:shadow-lg transition p-6 flex items-center justify-between overflow-hidden min-h-42.5"
             >
               {/* Left Image */}
               <img
