@@ -67,7 +67,7 @@ export default function Footer() {
               <div>
                 <p className="text-sm">Got questions? Call us 24/7!</p>
                 <p className="text-lg font-semibold">
-                  (800) 0000-8588, (0000) 111 000
+                  (800) 0000-9988, (0000) 222 000
                 </p>
               </div>
             </div>
@@ -75,7 +75,7 @@ export default function Footer() {
             <div className="mt-6 text-sm text-gray-600">
               <p className="font-semibold">Contact info</p>
               <p>
-                17 MH Road, London, Greater Dilwa NW1 8JR, Russia
+                17 LL Road, London, Greater Dilwa NW1 8JR, Russia
               </p>
             </div>
 
@@ -135,7 +135,7 @@ export default function Footer() {
       <div className="bg-white border-t py-4">
         <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
           
-          <p>© Electro - All rights Reserved</p>
+          <p></p>
 
         <div className="flex gap-4 mt-3 md:mt-0 items-center">
 
